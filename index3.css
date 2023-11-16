@@ -1,0 +1,42 @@
+.main{
+    height: 400px;
+    max-width: 1600px;
+    display: flex;
+}
+.card{
+    background-color: white;
+    height: 600px;
+    max-width: 500px;
+}
+.img{
+    margin-left: 150px;
+}
+.name{
+    margin-left: 150px;
+    font-size: xx-large
+}
+.text{
+    margin-left: 90px ;
+    margin-right: 100px;
+    font-size: larger;
+}
+.btn{
+    margin-left: 100px;
+    height: 40px;
+    width: 290px;
+    border-radius: 100px;
+    background-color: black;
+
+}
+.button{
+    color: white
+}
+.img1{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.card2{
+    background-color: palevioletred;
+    height: 500px;
+    max-width:450px
+}

@@ -1,0 +1,42 @@
+.millenium {
+    background-color: aqua;
+}
+.btn {
+    border: none;
+    background-color: pink;
+    height: 20px;
+    width: 40px;
+    text-align: center;
+}
+.flower {
+    color: red;
+    font-size: x-large;
+}
+.meal {
+    background-color: yellowgreen;
+    font-size: larger;
+}
+.country {
+    color: palevioletred;
+    font-size: x-large;
+}
+.celebrity {
+    color: green;
+    font-size: xx-large;
+}
+.nature {
+   border-top: 3px solid black;
+} 
+.text {
+    color: skyblue;
+}
+.text-2  {
+    background-color: rgb(125, 216, 69);
+}
+.text-3 {
+    color: red;
+    font-size: larger;
+}
+.poetry {
+    background-color: aquamarine;
+}
